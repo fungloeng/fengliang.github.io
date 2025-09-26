@@ -19,14 +19,16 @@ redirect_from:
 
 I am Feng Liang, a B.S. graduate in Electrical Engineering from Xi'an Jiaotong University.
 
-> # 🔥 News
+{% comment %}
+# 🔥 News
 
-> # 📝 Publications 
+# 📝 Publications 
 
-> # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 
-> # 📖 Educations
+# 📖 Educations
 
-> # 💬 Invited Talks
+# 💬 Invited Talks
 
-> # 💻 Internships
+# 💻 Internships
+{% endcomment %}
